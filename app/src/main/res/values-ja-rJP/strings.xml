@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ベビーシッターの発見</string>
+    <string name="welcome">ベビーシッターファインダーアプリへようこそ</string>
+    <string name="MainContent">必要なリソースを見つけるために必要なリソースを見つけることができるベビーシッターファインダーアプリへようこそ</string>
+</resources>

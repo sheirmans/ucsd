@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">尋找保姆</string>
+    <string name="welcome">歡迎來到保姆尋找器應用程序</string>
+    <string name="MainContent">歡迎使用Baby Sitter finder應用程序，您可以在其中找到所需資源，以查找所需資源</string>
+</resources>

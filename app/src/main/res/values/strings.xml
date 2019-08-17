@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Baby Sitter Finder</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome to the Baby Sitter Finder App</string>
+    <string name="MainContent">Welcome to Baby Sitter finder app where you can find resources you need to find resources you need</string>
+</resources>
